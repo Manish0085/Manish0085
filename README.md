@@ -4,18 +4,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish0085&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish0085&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manish0085&theme=tokyonight)
-
-![Manish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish0085&theme=tokyo-night)
-
----
-
 ### 🌱 What I’m currently learning
 - **DevOps & Cloud**
   - Jenkins pipelines, CI/CD automation
@@ -68,3 +56,17 @@
 
 ### ⚡ Fun fact
 I love turning **complex backend problems** into **clean, scalable solutions** — and I enjoy deploying things as much as building them 😄
+
+
+## 📊 GitHub Stats & Activity
+
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish0085&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish0085&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Manish0085&theme=tokyonight)
+
+![Manish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish0085&theme=tokyo-night)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish0085&theme=tokyo-night)
+
