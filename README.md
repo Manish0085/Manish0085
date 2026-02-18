@@ -9,17 +9,8 @@ I enjoy working on **backend architecture, APIs, video streaming systems, and cl
 
 ---
 
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/manish-kumar-a88699313/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="border-radius:50%;" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/manish_k1309_/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" style="border-radius:50%;" />
-  </a>
-</p>
+## 🌐 Connect with me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish_Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-kumar-a88699313/) [![Instagram](https://img.shields.io/badge/Instagram-manish__kumar__57107-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manish_k1309_/)
 
  ---
  
