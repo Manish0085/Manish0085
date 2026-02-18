@@ -1,72 +1,109 @@
-## Hi there 👋 I'm Manish Kumar
+# 👋 Hi, I’m Manish Kumar
 
-🚀 A passionate **Java Backend Developer** pursuing the **final year of B.Tech (Information Technology)**, focused on building **scalable, real-world applications** using modern backend and cloud technologies.
+🚀 **Java Backend Developer | Spring Boot | Full Stack | DevOps Learner**  
+🎓 Final year **B.Tech (Information Technology)** student passionate about building **scalable, production-ready systems**.
 
----
-
-### 🌱 What I’m currently learning
-- **DevOps & Cloud**
-  - Jenkins pipelines, CI/CD automation
-  - AWS EC2, Nginx, Linux server deployments
-- **Advanced Backend Concepts**
-  - Microservices, system design basics
-  - Performance optimization & scalability
+I enjoy working on **backend architecture, APIs, video streaming systems, and cloud deployments** — turning complex problems into clean, reliable solutions.
 
 ---
 
-### 💼 Tech Stack
+## 🌐 Connect with me
 
-**Backend**
-- Java, Spring Boot, Spring MVC, Spring Security
-- REST APIs, JPA/Hibernate, Microservices
-
-**Frontend**
-- React.js, Tailwind CSS, Flowbite-React
-
-**DevOps & Tools**
-- Linux, Jenkins, AWS EC2, Nginx
-- Docker (learning), Git & GitHub, Redis
-
-**Database**
-- MySQL, MongoDB, In-Memory DB (H2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish_Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-kumar-a88699313/)
+[![GitHub](https://img.shields.io/badge/GitHub-Manish0085-black?style=for-the-badge&logo=github)](https://github.com/Manish0085)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:manish57107@gmail.com)
 
 ---
 
-### 👯 I’m looking to collaborate on
-- Backend-heavy **Java / Spring Boot** projects  
-- **Full-stack** applications with real production use cases  
-- Open-source projects related to **backend, DevOps, or cloud**
+## 🛠 Tech Stack
+
+### Backend
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40"/>
+
+### Frontend
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+
+### DevOps & Tools
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+
+### Database
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
+
 
 ---
-
-### 💬 Ask me about
-- Java & Spring Boot  
-- Video streaming systems (HLS, FFmpeg)  
-- CI/CD with Jenkins  
-- Deploying apps on AWS EC2  
-- Building full-stack projects from scratch  
-
----
-
-### 📫 How to reach me
-- 💼 LinkedIn: *[Add your LinkedIn URL here]*
-- 📧 Email: *[Add your professional email here]*
-
----
-
-### ⚡ Fun fact
-I love turning **complex backend problems** into **clean, scalable solutions** — and I enjoy deploying things as much as building them 😄
-
 
 ## 📊 GitHub Stats & Activity
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish0085&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish0085&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish0085&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Manish0085&theme=tokyonight)
 
 ![Manish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish0085&theme=tokyo-night)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish0085&theme=tokyo-night)
+---
 
+## 🚀 Projects
+
+### 🎥 Videly – Video Streaming Platform
+🔗 https://github.com/Manish0085/Videly  
+- Spring Boot backend with HLS video streaming  
+- FFmpeg processing & Cloudinary integration  
+- Secure APIs, authentication & scalable design  
+
+### 📊 Social Media Analytics Dashboard
+- Java (Spring Boot) backend with REST APIs  
+- React frontend with interactive charts  
+- Data visualization & filtering  
+
+### 🏨 Hotel Management System
+- Booking & user management backend  
+- Clean layered architecture using Spring Boot  
+
+### ⚙️ CI/CD Pipeline with Jenkins
+- Automated build & deployment  
+- AWS EC2 + Nginx + Linux server setup  
+
+---
+
+## 🌱 Currently Learning
+- Jenkins pipelines & CI/CD best practices  
+- AWS EC2, Nginx, Linux server management  
+- Microservices & backend system design  
+
+---
+
+## 👯 Open to Collaborate On
+- Java / Spring Boot backend projects  
+- Full-stack applications with real use cases  
+- Open-source projects in backend & DevOps  
+
+---
+
+## 💬 Ask Me About
+- Java & Spring Boot  
+- REST APIs & backend architecture  
+- Video streaming (HLS, FFmpeg)  
+- CI/CD with Jenkins  
+- Deploying apps on AWS EC2  
+
+---
+
+## ⚡ Fun Fact
+I enjoy **deploying applications as much as building them** — seeing code run in production is the real reward 😄
+
+---
+
+⭐ *If you like my work, feel free to star my repositories and connect with me!*
