@@ -6,12 +6,10 @@
 I enjoy working on **backend architecture, APIs, video streaming systems, and cloud deployments** — turning complex problems into clean, reliable solutions.
 
 ---
-
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish_Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-kumar-a88699313/)
-[![GitHub](https://img.shields.io/badge/GitHub-Manish0085-black?style=for-the-badge&logo=github)](https://github.com/Manish0085)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:manish57107@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-manish__kumar__57107-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manish_k1309_/)
 
 ---
 
