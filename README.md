@@ -1,15 +1,6 @@
 ## Hi there 👋 I'm Manish Kumar
 
-🚀 A passionate **Java Backend Developer** & **Full Stack Engineer** in my **3rd year of B.Tech**, focused on building **scalable, real-world applications** using modern backend and cloud technologies.
-
----
-
-### 🔭 What I’m currently working on
-- 🎥 **Videly – Video Streaming Platform** (Spring Boot + React)
-  - HLS streaming, FFmpeg processing, Cloudinary integration
-  - Secure authentication, video upload, and streaming APIs
-- ☁️ **Deploying applications on AWS EC2 using Jenkins CI/CD**
-- 🛠️ Production-ready backend systems with clean architecture
+🚀 A passionate **Java Backend Developer** pursuing final year of B.tech with the specialization of Information of Technology, focused on building **scalable, real-world applications** using modern backend and cloud technologies.
 
 ---
 
@@ -32,11 +23,11 @@
 - React.js, Tailwind CSS, Flowbite-React
 
 **DevOps & Tools**
-- Jenkins, AWS EC2, Nginx
-- Docker (learning), Git & GitHub
+- Linux, Jenkins, AWS EC2, Nginx
+- Docker (learning), Git & GitHub, Redis
 
 **Database**
-- MySQL, PostgreSQL, In-Memory DB (H2)
+- MySQL, MongoDB, In-Memory DB (H2)
 
 ---
 
