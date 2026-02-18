@@ -5,7 +5,10 @@
 
 I enjoy working on **backend architecture, APIs, video streaming systems, and cloud deployments** — turning complex problems into clean, reliable solutions.
 
+> “Automation is good, so long as you know exactly where to put the machine.”
+
 ---
+
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish_Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-kumar-a88699313/)
@@ -27,7 +30,6 @@ I enjoy working on **backend architecture, APIs, video streaming systems, and cl
 ### Database
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
 
-
 ---
 
 ## 📊 GitHub Stats & Activity
@@ -39,29 +41,6 @@ I enjoy working on **backend architecture, APIs, video streaming systems, and cl
 ![GitHub Streak](https://streak-stats.demolab.com?user=Manish0085&theme=tokyonight)
 
 ![Manish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish0085&theme=tokyo-night)
-
----
-
-## 🚀 Projects
-
-### 🎥 Videly – Video Streaming Platform
-🔗 https://github.com/Manish0085/Videly  
-- Spring Boot backend with HLS video streaming  
-- FFmpeg processing & Cloudinary integration  
-- Secure APIs, authentication & scalable design  
-
-### 📊 Social Media Analytics Dashboard
-- Java (Spring Boot) backend with REST APIs  
-- React frontend with interactive charts  
-- Data visualization & filtering  
-
-### 🏨 Hotel Management System
-- Booking & user management backend  
-- Clean layered architecture using Spring Boot  
-
-### ⚙️ CI/CD Pipeline with Jenkins
-- Automated build & deployment  
-- AWS EC2 + Nginx + Linux server setup  
 
 ---
 
