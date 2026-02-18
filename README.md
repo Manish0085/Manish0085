@@ -1,6 +1,18 @@
 ## Hi there 👋 I'm Manish Kumar
 
-🚀 A passionate **Java Backend Developer** pursuing final year of B.tech with the specialization of Information of Technology, focused on building **scalable, real-world applications** using modern backend and cloud technologies.
+🚀 A passionate **Java Backend Developer** pursuing the **final year of B.Tech (Information Technology)**, focused on building **scalable, real-world applications** using modern backend and cloud technologies.
+
+---
+
+## 📊 GitHub Stats & Activity
+
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish0085&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish0085&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Manish0085&theme=tokyonight)
+
+![Manish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish0085&theme=tokyo-night)
 
 ---
 
@@ -15,6 +27,7 @@
 ---
 
 ### 💼 Tech Stack
+
 **Backend**
 - Java, Spring Boot, Spring MVC, Spring Security
 - REST APIs, JPA/Hibernate, Microservices
@@ -39,11 +52,11 @@
 ---
 
 ### 💬 Ask me about
-- Java & Spring Boot
-- Video streaming systems (HLS, FFmpeg)
-- CI/CD with Jenkins
-- Deploying apps on AWS EC2
-- Building full-stack projects from scratch
+- Java & Spring Boot  
+- Video streaming systems (HLS, FFmpeg)  
+- CI/CD with Jenkins  
+- Deploying apps on AWS EC2  
+- Building full-stack projects from scratch  
 
 ---
 
