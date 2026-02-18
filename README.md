@@ -11,8 +11,8 @@ I enjoy working on **backend architecture, APIs, video streaming systems, and cl
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish_Kumar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manish-kumar-a88699313/)
-[![Instagram](https://img.shields.io/badge/Instagram-manish__kumar__57107-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manish_k1309_/)
+[![LinkedIn](https://www.linkedin.com/in/manish-kumar-a88699313/)
+[![Instagram]](https://www.instagram.com/manish_k1309_/)
 
 ---
 
@@ -38,11 +38,9 @@ I enjoy working on **backend architecture, APIs, video streaming systems, and cl
 
 ## 📊 GitHub Stats & Activity
 
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manish0085&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish0085&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Manish0085&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Manish0085&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 ![Manish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish0085&theme=tokyo-night)
 
